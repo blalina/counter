@@ -2,7 +2,7 @@
 
 Challenge: Understanding the basic ideas of a language/toolkit.
 
-![how Counter should work]()
+![how Counter should work](https://github.com/blalina/counter/blob/main/ScreenShots/counter.9cd92091.png)
 
 The task is to build a frame containing a label or read-only textfield T and a button B. Initially, the value in T is “0” and each click of B increases the value in T by one.
 
