@@ -1,0 +1,28 @@
+.counter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.counter__input {
+    width: 300px;
+    height: 31px;
+    margin-right: 10px;
+    padding-left: 5px;
+
+    font-size: 20px;
+}
+
+.counter__button {
+    width: 70px;
+    height: 37px;
+    margin-right: 10px;
+
+    font-size: 15px;
+}
