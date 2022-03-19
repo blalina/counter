@@ -1,4 +1,4 @@
-# counter
+# Counter
 
 Challenge: Understanding the basic ideas of a language/toolkit.
 
